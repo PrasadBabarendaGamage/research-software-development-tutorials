@@ -14,6 +14,7 @@ Research software development tutorials
    beginner
    intermediate
    advanced
+   tools
    contributing
 
 Indices and tables
